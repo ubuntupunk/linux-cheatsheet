@@ -16,7 +16,7 @@ Thanks to [Zeepler](https://github.com/Jeeppler/qubes-cheatsheet) for the pandoc
 
 - **Text: [linux-cheatsheet.txt](https://github.com//ubuntupunk/linux-cheatsheet/blob/main//linux-cheatsheet.txt)**
 
-*The files are generated with the help of [`generate.sh`](https://github.com/ubuntupunk/ubuntupunk/linux-cheatsheet/blob/main//generate.sh)*
+*The files are generated with the help of [`generate.sh`](https://github.com/ubuntupunk/linux-cheatsheet/blob/main/generate.sh)*
 
 
 ## Other formats

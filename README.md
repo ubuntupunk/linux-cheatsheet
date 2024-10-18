@@ -4,13 +4,13 @@ This cheat sheet contains commands and examples for [linux 22.04](https://www.li
 
 It is based upon the [linux Server Cheatsheet](https://assets.linux.com/v1/3bd0daaf-linux%20Server%20CLI%20cheat%20sheet%202024%20v6.pdf?)
 
-Thanks to [Zeepler](https://github.com/Jeeppler/qubes-cheatsheet) for the pandocinspiration.
+Thanks to [Zeepler](https://github.com/Jeeppler/qubes-cheatsheet) for the pandoc inspiration.
 
 ## Downloads
 
 - **Markdown (Text): [linux-cheatsheet.md](https://github.com/ubuntupunk/linux-cheatsheet/blob/main/linux-cheatsheet.md)**
 
-- **PDF: [linux-cheatsheet.pdf](https://github.com/ubuntupunk//ubuntupunk/linux-cheatsheet/blob/main/linux-cheatsheet.pdf)**
+- **PDF: [linux-cheatsheet.pdf](https://github.com/ubuntupunk/linux-cheatsheet/blob/main/linux-cheatsheet.pdf)**
 
 - **HTML: [linux-cheatsheet.html](https://htmlpreview.github.io/?https://github.com//ubuntupunk/linux-cheatsheet/blob/main/linux-cheatsheet.html)**
 

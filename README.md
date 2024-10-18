@@ -1,4 +1,4 @@
-# linux OS Cheat Sheet
+# Linux Cheat Sheet
 
 This cheat sheet contains commands and examples for [linux 22.04](https://www.linux.com/).
 
@@ -8,15 +8,15 @@ Thanks to [Zeepler](https://github.com/Jeeppler/qubes-cheatsheet) for the pandoc
 
 ## Downloads
 
-- **Markdown (Text): [linux-cheatsheet.md](https://github.com/ubuntupunk/linux-cheatsheet/blob/main/cheats/linux-cheatsheet.md)**
+- **Markdown (Text): [linux-cheatsheet.md](https://github.com/ubuntupunk/linux-cheatsheet/blob/main/linux-cheatsheet.md)**
 
-- **PDF: [linux-cheatsheet.pdf](https://github.com/ubuntupunk/ubuntu-cheatsheet/blob/main/cheats/linux-cheatsheet.pdf)**
+- **PDF: [linux-cheatsheet.pdf](https://github.com/ubuntupunk//ubuntupunk/linux-cheatsheet/blob/main/linux-cheatsheet.pdf)**
 
-- **HTML: [linux-cheatsheet.html](https://htmlpreview.github.io/?https://github.com/ubuntupunk/ubuntu-cheatsheet/blob/main/cheats/linux-cheatsheet.html)**
+- **HTML: [linux-cheatsheet.html](https://htmlpreview.github.io/?https://github.com//ubuntupunk/linux-cheatsheet/blob/main/linux-cheatsheet.html)**
 
-- **Text: [linux-cheatsheet.txt](https://github.com/ubuntupunk/ubuntu-cheatsheet/blob/main/cheats/linux-cheatsheet.txt)**
+- **Text: [linux-cheatsheet.txt](https://github.com//ubuntupunk/linux-cheatsheet/blob/main//linux-cheatsheet.txt)**
 
-*The files are generated with the help of [`generate.sh`](https://github.com/ubuntupunk/ubuntu-cheatsheet/blob/main/generate.sh)*
+*The files are generated with the help of [`generate.sh`](https://github.com/ubuntupunk/ubuntupunk/linux-cheatsheet/blob/main//generate.sh)*
 
 
 ## Other formats

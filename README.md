@@ -1,4 +1,4 @@
-# Linux Cheat Sheet
+# Linux Command Cheat Sheet
 
 This cheat sheet contains commands and examples for [linux 22.04](https://www.linux.com/).
 
